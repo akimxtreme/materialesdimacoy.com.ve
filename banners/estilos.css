@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+html,body {
+	margin:0; 
+	padding:0;
+	}
+body {
+	margin:0 auto;
+	padding:0;
+	}
+	body.va{
+	background:url(bg.png) no-repeat center 0;
+	}
+	body.vb{
+	background:url(bg2.png) no-repeat center 0;
+	}
+p {
+	background:#000000;
+	padding:5px;
+	margin:0;
+	color:#FFFFFF;
+	}
+	a {color:#FFFF00;
+	}
+#content {
+	height:3631px;
+	width:1038px;
+	margin:0 auto;
+	}
+#mediapagina-v1{
+	margin:870px 0 0 29px;
+	float:left;
+	display:block;
+	}
+#cuartopagina-v1 {
+	margin: 426px 500px 0 36px;
+	float:left;
+	display:block;
+	}
+#minibanner-v1 {
+	margin: 1747px 0 0 891px;
+	float:left;
+	display:block;
+	}
+#rascacielos-v1 {
+	margin: 1492px 0 0 251px;
+	float:left;
+	display:block;
+	}
